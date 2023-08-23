@@ -10,10 +10,7 @@
 # in `goreleaser` to indicate this is being used in a non-interactive mode.
 #
 name: Release
-on:
-  push:
-    tags:
-      - "v*"
+on: workflow_dispatch
 
 env:
   GO_VERSION: "1.18"
