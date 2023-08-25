@@ -1,35 +1,13 @@
 
-<a name="v3.1.0"></a>
-## [v3.1.0](https://github.com/seatgeek/terraform-provider-docker/compare/v3.1.3...v3.1.0) (2023-08-24)
-
-### Fix
-
-* Fix fork-related issues with the release action ([#4](https://github.com/seatgeek/terraform-provider-docker/issues/4))
-
-
-<a name="v3.1.3"></a>
-## [v3.1.3](https://github.com/seatgeek/terraform-provider-docker/compare/v3.1.2...v3.1.3) (2023-08-24)
-
-### Chore
-
-* Prepare release v3.1.3
-
-
-<a name="v3.1.2"></a>
-## [v3.1.2](https://github.com/seatgeek/terraform-provider-docker/compare/v3.1.1...v3.1.2) (2023-08-24)
-
-### Chore
-
-* Prepare release v3.1.2
-
-
 <a name="v3.1.1"></a>
-## [v3.1.1](https://github.com/seatgeek/terraform-provider-docker/compare/v3.0.2...v3.1.1) (2023-08-23)
+## [v3.1.1](https://github.com/seatgeek/terraform-provider-docker/compare/v3.1.0...v3.1.1) (0001-01-01)
+
+
+<a name="v3.1.0"></a>
+## [v3.1.0](https://github.com/seatgeek/terraform-provider-docker/compare/v3.0.2...v3.1.0) (2023-08-24)
 
 ### Chore
 
-* Prepare release v3.1.1
-* Prepare release v3.1.0
 * Prepare release v3.1.0
 
 ### Feat
@@ -41,16 +19,11 @@
 
 ### Fix
 
+* Fix fork-related issues with the release action ([#4](https://github.com/seatgeek/terraform-provider-docker/issues/4))
 * fix auth helper and docker_registry_image data source tests
-
-### Reverts
-
-* chore: Prepare release v3.1.0
 
 ### Pull Requests
 
-* Merge pull request [#3](https://github.com/seatgeek/terraform-provider-docker/issues/3) from seatgeek/vprakash/fix-ci-actions
-* Merge pull request [#2](https://github.com/seatgeek/terraform-provider-docker/issues/2) from seatgeek/vprakash-seatgeek/prep-release
 * Merge pull request [#1](https://github.com/seatgeek/terraform-provider-docker/issues/1) from seatgeek/vprakash/data-source-multiarch-registry-image
 
 
